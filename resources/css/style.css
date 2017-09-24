@@ -127,8 +127,15 @@ body {
   text-align: center;
 }
 
+.footer h2 {
+  margin-top: 5px;
+  padding-top: 2px;
+  padding-bottom: 20px;
+}
+
 #copyright {
   text-align: left;
   display: flex;
   padding-left: 20px;
+  padding-top: 30px;
 }
